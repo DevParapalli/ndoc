@@ -1,0 +1,16 @@
+{
+    "document_type": "Government of India - Unique Identification Authority of India (UIDAI)",
+    "aadhaar_number": "XXXX XXXX XXXX",
+    "personal_details": {
+        "name": "XXXXXXXXXX",
+        "gender": "MALE",
+        "dob": "XX/XX/XXXX"
+    },
+    "address": {
+        "full_address": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+    },
+    "document_identifiers": {
+        "barcode": "Present (QR code visible in top right)",
+        "bottom_barcode": "Present (1D barcode at bottom)"
+    }
+}
