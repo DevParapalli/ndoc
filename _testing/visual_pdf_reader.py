@@ -25,7 +25,7 @@ def extract(s: pymupdf.Document | BinaryIO | str) -> tuple[list, str]:
 
     return (images, text)
 
-images, text = extract("/home/devparapalli/Downloads/Shrini Aadhar.pdf")
+images, text = extract("~/some.pdf")
 
 PIL_Images = [PIL.Image.open(x) for x in images]
 
